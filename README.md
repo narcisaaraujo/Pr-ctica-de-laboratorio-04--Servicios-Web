@@ -1,2 +1,1 @@
-# Práctica de laboratorio 04: Servicios Web
- 
+# PracticaDeLaboratorio04-EJB-JSF-JPA-WS
